@@ -18,6 +18,11 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         // Override point for customization after application launch.
         
         print("didFinishLaunchingWithOptions.......,,,")
+        
+        //note note
+        
+        
+        
         return true
     }
 
